@@ -66,7 +66,7 @@ Improved snippet management, a GUI for multi-color highlighting, & chart generat
 -   There's a new [Sodalite](https://github.com/tomzorz/Sodalite) theme for Obsidian. Dark mode only.
 -   This [Agora theme](https://github.com/Seraaron/agora-obsidian-theme) is designed to be used with the Agora TTRPG
 -   The new [Faded](https://github.com/JoshKasap/Obsidian-Faded-Theme) theme  has some nice advanced sliding panes support.
--   Amethyst now comes in [Emerald](https://github.com/gracejoseph1236/obsidian-emerald).
+-   Amethyst now comes in [Emerald](https://github.com/piglet1236/obsidian-emerald).
 -   `@Kepano` is looking for users of Minimal to [share screenshots and use-cases](https://forum.obsidian.md/t/share-your-minimal-theme-screenshots-configuration/8983/99) to help focus improvement on things people care about.
 -   Here's some [fancy emoji markers and highlighting](http://discordapp.com/channels/686053708261228577/722584061087842365/898089959339200572) codes based on tags.
 

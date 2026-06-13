@@ -8,7 +8,7 @@ publish: true
 
 # Piglet1236
 
-- GitHub: [gracejoseph1236](https://github.com/gracejoseph1236/) ^github
+- GitHub: [piglet1236](https://github.com/piglet1236/) ^github
 <!-- - Discord: `@` ^discord-->
 <!-- - Website: <https://> ^website-->
 <!-- - [[Publish sites|Publish site]]: <https://> ^publish-->
@@ -40,7 +40,7 @@ publish: true
 ## Sponsor this author
 -->
 
-<!-- - [[GitHub sponsors]]: [Sponsor @gracejoseph1236 on GitHub Sponsors](https://github.com/sponsors/gracejoseph1236) ^github-sponsor-->
+<!-- - [[GitHub sponsors]]: [Sponsor @piglet1236 on GitHub Sponsors](https://github.com/sponsors/piglet1236) ^github-sponsor-->
 <!-- - [[Buy me a coffee]]: <https://> ^buy-me-a-coffee-->
 <!-- - [[PayPal]]: <https://> ^paypal-->
 <!-- - [[Patreon]]: <https://> ^patreon-->
@@ -57,4 +57,4 @@ publish: true
 
 # This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/obsidian-community/obsidian-hub/blob/main/01%20-%20Community/People/gracejoseph1236.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/obsidian-community/obsidian-hub/main/01%20-%20Community/People/gracejoseph1236.md "git-hub-copy-note") | [Download this vault](https://github.com/obsidian-community/obsidian-hub/archive/refs/heads/main.zip "git-hub-download-vault") </span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/obsidian-community/obsidian-hub/blob/main/01%20-%20Community/People/piglet1236.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/obsidian-community/obsidian-hub/main/01%20-%20Community/People/piglet1236.md "git-hub-copy-note") | [Download this vault](https://github.com/obsidian-community/obsidian-hub/archive/refs/heads/main.zip "git-hub-download-vault") </span>

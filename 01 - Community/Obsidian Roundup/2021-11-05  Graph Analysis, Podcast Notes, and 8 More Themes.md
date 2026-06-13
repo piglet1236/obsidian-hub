@@ -71,7 +71,7 @@ _Note: Not all new plugins are available in the community list yet, as they need
 -   [Primary](https://github.com/ceciliamay/obsidianmd-theme-primary) is very warm and functional. Gruvbox users should probably check it out.
 -   [Wyrd](https://github.com/curio-heart/obsidian-wyrd) is a purple-hued, low-contrast, dual-mode theme with very bright colors.
 -   [Things](https://github.com/colineckert/obsidian-things) is intended to look and feel native on iOS. It's already been [updated once](https://twitter.com/colineckert/status/1456693780841578496?t=PDpHo0u6FGRnEfdaiqY3lg).
--   [Turquoise](https://github.com/gracejoseph1236/obsidian-turquoise), [Limestone](https://github.com/gracejoseph1236/obsidian-limestone) & [Sapphire](https://github.com/gracejoseph1236/obsidian-sapphire).
+-   [Turquoise](https://github.com/piglet1236/obsidian-turquoise), [Limestone](https://github.com/piglet1236/obsidian-limestone) & [Sapphire](https://github.com/piglet1236/obsidian-sapphire).
 -   [Bubble Space](https://github.com/Emrie-Candera/Bubble-Space-Theme) is a lot of fun.
 -   [Purple Aurora](https://github.com/AndreasStandar/Obsidian-Theme---Purple-Aurora) has a neat gradient border around blockquotes.
 

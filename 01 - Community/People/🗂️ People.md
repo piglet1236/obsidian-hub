@@ -875,7 +875,7 @@ Overviews of all the work from notable People like Plugins Developers, Theme Des
 -  [[01 - Community/People/gquental|gquental]]
 -  [[01 - Community/People/gr0grig|gr0grig]]
 -  [[01 - Community/People/GRA0007|GRA0007]]
--  [[01 - Community/People/gracejoseph1236|gracejoseph1236]]
+-  [[01 - Community/People/piglet1236|piglet1236]]
 -  [[01 - Community/People/grassbl8d|grassbl8d]]
 -  [[01 - Community/People/graydon|graydon]]
 -  [[01 - Community/People/Grayvox|Grayvox]]
